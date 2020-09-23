@@ -1,0 +1,34 @@
+Squares By Gilzean
+
+I do not know whether this is a well known game or
+not as I have only come across it once before
+when I download it from somewhere and then 
+lost it and was unable to find it again so I
+decided to write it myself.
+
+So while the idea is not mine - the code is.
+
+Apologies for not commenting the code, I can't be
+bothered, but variables and subs are aptly named
+which should make it easy to follow.
+
+** Note **
+Code does include instruction 'Kill File'
+This just deletes a temporary file that the
+program creates to update the high scores.
+
+My apologies for not knowing who wrote the one
+that I downloaded but thanks for the idea.
+
+The object of the game is to score as many points as
+possible by removing coloured squares from the grid.
+This is done by clicking on a square that is the same
+colour as its neighbour (above, below, left or right)
+All contiguously coloured squares in each direction 
+will be removed and the squares above will drop down.
+If this is not clear, right click a square to see which
+will be removed. More points are scored for removing
+lots of squares in one go and a bonus is scored for
+completing a level.
+
+Have fun, hope you enjoy. 
